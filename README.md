@@ -1,1 +1,1 @@
-# Linix-User-Manager
+# Linux-User-Manager
