@@ -1,6 +1,6 @@
 # Linux-User-Manager
 
-<p>Linux Project To Deal Directly With Operating System Terminal To Execute Specific Tasks Through Interface Without Going Into Command/terminal Details. </p>
+<p>Linux Project To Deal Directly With Operating System Terminal To Execute Specific Tasks Through Interface Without Going Into Command/Terminal Details. </p>
 
 <h2> User-manager Program Specialized In : </h2>
 <p> -Adding And Deleting Users In System. </p>
