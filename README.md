@@ -17,12 +17,12 @@
 <p> -Manual Page For Your Project. </p>
 
 <hr>
-<h2> How To Use ? </h2>
-<p> 1- Find Your File Scope and File name. </p>
-<p> 2- Open  Your Terminal (Ctrl+alt+t). </p>
+<h2> Using : </h2>
+<p> 1- Select Your File Scope and File name. </p>
+<p> 2- Open Your Terminal (Ctrl+alt+t). </p>
 <p> 3- Wrire Following : <b> Cd Foldername </b> </p>
 <p> 4- Build Your Code : <b> gcc  FileName.c -o FileName.out </b> </p>
-<p> 5- To Run Your Code : <b> ./filename.out </b> </p>
+<p> 5- Run Your Code : <b> ./filename.out </b> </p>
 <br>
 <p> *Note : Replace "Foldername" With The Name Of The Folder/place That You Keep Your File <b>AND</b> Replace "Filename" With The Name Of The File That You Want To Run It. </p>
 
