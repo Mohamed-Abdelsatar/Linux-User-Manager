@@ -2,7 +2,7 @@
 
 <p>Linux Project To Deal Directly With Operating System Terminal To Execute Specific Tasks Through Interface Without Going Into Command/Terminal Details. </p>
 
-<h2> User-manager Program Specialized In : </h2>
+<h2> Specialized In : </h2>
 <p> -Adding And Deleting Users In System. </p>
 <p> -Adding And Deleting Groups In System. </p>
 <p> -Change User Information. </p> 
