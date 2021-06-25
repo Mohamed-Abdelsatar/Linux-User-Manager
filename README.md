@@ -12,12 +12,12 @@
 
 <hr>
 
-<h2> Including : </h2>
+<h2> It's Including : </h2>
 <p> -Menu Interface To Let The User Picks The Option He Wants. </p>
 <p> -Manual Page For Your Project. </p>
 
 <hr>
-<h2> Using : </h2>
+<h2> How to Use ? </h2>
 <p> 1- Select Your File Scope and File name. </p>
 <p> 2- Open Your Terminal (Ctrl+alt+t). </p>
 <p> 3- Wrire Following : <b> Cd Foldername </b> </p>
